@@ -79,7 +79,7 @@
   <a href="mailto:shayan.mukherjee95@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/shayan-mukherjee" target="_blank">
+  <a href="[https://www.linkedin.com/in/shayan-mukherjee](https://www.linkedin.com/in/shayan-mukherjee-a48441226/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
