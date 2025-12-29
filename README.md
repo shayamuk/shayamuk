@@ -12,7 +12,7 @@ AI-Driven Insights & Automation
 
 ## 📊 About Me
 
-I am a **detail-oriented Data Analyst** with strong experience in **Excel, SQL, and Tableau**, currently working as an **SPS Associate at Amazon**. I enjoy transforming raw data into meaningful insights and actively leverage **AI tools** to improve speed, accuracy, and decision-making.
+I am a **detail-oriented Data Analyst** with strong experience in **Excel, SQL**, currently working as an **SPS Associate at Amazon**. I enjoy transforming raw data into meaningful insights and actively leverage **AI tools** to improve speed, accuracy, and decision-making.
 
 - 💼 **SPS Associate at Amazon**
 - 🎓 **B.Sc. (Hons) in Microbiology** – University of Calcutta
