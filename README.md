@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shayan Mukherjee</h1>
 <h3 align="center">
-Data Analyst | Excel • SQL <br/>
+Data Analyst | Excel • SQL • Power BI <br/>
 AI-Driven Insights & Automation
 </h3>
 
@@ -12,7 +12,7 @@ AI-Driven Insights & Automation
 
 ## 📊 About Me
 
-I am a **detail-oriented Data Analyst** with strong experience in **Excel, SQL**, currently working as an **SPS Associate at Amazon**. I enjoy transforming raw data into meaningful insights and actively leverage **AI tools** to improve speed, accuracy, and decision-making.
+I am a **detail-oriented Data Analyst** with strong experience in **Excel**, **SQL**, **Power BI**, currently working as an **SPS Associate at Amazon**. I enjoy transforming raw data into meaningful insights and actively leverage **AI tools** to improve speed, accuracy, and decision-making.
 
 - 💼 **SPS Associate at Amazon**
 - 🎓 **B.Sc. (Hons) in Microbiology** – University of Calcutta
@@ -33,7 +33,7 @@ I am a **detail-oriented Data Analyst** with strong experience in **Excel, SQL**
 
 - Advanced Excel (Pivot Tables, Power Query, Dashboards, Automation)
 - SQL (Joins, CTEs, Subqueries, Window Functions, Optimization)
-- Tableau (Interactive dashboards, KPIs, data storytelling)
+- Power BI (Interactive dashboards, KPIs, data storytelling)
 
 ---
 
@@ -57,7 +57,7 @@ I am a **detail-oriented Data Analyst** with strong experience in **Excel, SQL**
 
 - 📌 Real-world **SQL case studies**
 - 📊 Business-focused **Excel dashboards**
-- 📈 **Tableau visualization projects**
+- 📈 **Power BI visualization projects**
 - 🤖 AI-powered analytics workflows & automation
 
 ---
