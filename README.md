@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shayan Mukherjee</h1>
 <h3 align="center">
-Data Analyst | Excel • SQL • Power BI <br/>
+Data Analyst | Excel • SQL • Python (Numpy, Pandas and Matplotlib) • Power BI <br/>
 AI-Driven Insights & Automation
 </h3>
 
