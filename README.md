@@ -29,6 +29,8 @@ I am a **detail-oriented Data Analyst** with strong experience in **Excel**, **S
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-003B57?style=for-the-badge&logo=database&logoColor=white"/>
+
 </p>
 
 - Advanced Excel (Pivot Tables, Power Query, Dashboards, Automation)
