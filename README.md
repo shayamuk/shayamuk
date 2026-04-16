@@ -36,6 +36,7 @@ I am a **detail-oriented Data Analyst** with strong experience in **Excel**, **S
 - Advanced Excel (Pivot Tables, Power Query, Dashboards, Automation)
 - SQL (Joins, CTEs, Subqueries, Window Functions, Optimization)
 - Power BI (Interactive dashboards, KPIs, data storytelling)
+- Python (Libraries - Numpy, Pandas and Matplotlib)
 
 ---
 
